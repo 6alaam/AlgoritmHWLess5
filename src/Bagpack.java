@@ -17,3 +17,4 @@ public class Bagpack {
         }
     }
 }
+// 2 задание
